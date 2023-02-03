@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 class Counter extends Component {
   state = {
-    count: 1,
+    value: this.props.value,
     tags: ["tag1", "tag2", "tag3"],
   };
 
@@ -10,6 +10,11 @@ class Counter extends Component {
     fontSize: 15,
     fontWeight: "bold",
   };
+
+  // constructor () {
+  //   super();
+  //   this.onClickIncrement = this.onClickIncrement.bind(this);
+  // }
 
   render() {
     return (
@@ -24,37 +29,37 @@ class Counter extends Component {
           Increment
         </button>
 
-        {this.renderTags()}
+        {/* {this.renderTags()} */}
       </React.Fragment>
     );
   }
 
-  onClickIncrement() {
-    console.log("clicked");
-  }
+  onClickIncrement = () => {
+    this.setState({ value: this.state.value + 1 });
+  };
 
-  renderTags() {
-    if (this.state.tags.length === 0) {
-      return <h1>NO TAGS FOR YOU</h1>;
-    } else {
-      return (
-        <ul>
-          {this.state.tags.map((tag) => (
-            <li key={tag}>{tag}</li>
-          ))}
-        </ul>
-      );
-    }
-  }
+  // renderTags() {
+  //   if (this.state.tags.length === 0) {
+  //     return <h1>NO TAGS FOR YOU</h1>;
+  //   } else {
+  //     return (
+  //       <ul>
+  //         {this.state.tags.map((tag) => (
+  //           <li key={tag}>{tag}</li>
+  //         ))}
+  //       </ul>
+  //     );
+  //   }
+  // }
 
   getBadgeClasses() {
     let classes = "badge m-2 bg-";
-    classes += this.state.count === 0 ? "warning" : "primary";
+    classes += this.state.value === 0 ? "warning" : "primary";
     return classes;
   }
 
   formatCount() {
-    const { count } = this.state;
+    const { value: count } = this.state;
     return count === 0 ? "Zero" : count;
   }
 }
