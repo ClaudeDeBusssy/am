@@ -1,7 +1,6 @@
 .colorCardBox {
     width: 50px;
-    min-height: 50px;
-    max-height: max-content;
+    height: 50px;
     border: 1px solid;
     border-radius: 4px 0px 0px 4px;
     margin: -0.1%;
@@ -9,7 +8,7 @@
 
 .colorCardBorder {
     border: 2px solid;
-    height: 50px;
+
     background-color: #ffffff34;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
     transition: all 0.2s ease  ;
@@ -29,6 +28,10 @@
     transition: all 0.2s ease 0.04s ;
 
 
+}
+
+.transparent {
+    opacity: 0.8;
 }
 
 .btn-copy:hover {

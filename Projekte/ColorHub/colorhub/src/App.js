@@ -7,10 +7,10 @@ import ColorCards from './components/colorCards';
 
 function App() {
   return (
-    <div className='backgroundGradient'>
+    <div className='backgroundGradient pb-5'>
     <Navbar></Navbar>
 
-    <div className="container shadow px-5 bottom">
+    <div className="container   p-5 mt-5 bottom ">
          
         <Search ></Search>
 
