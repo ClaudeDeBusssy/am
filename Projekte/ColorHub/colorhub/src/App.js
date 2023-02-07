@@ -1,19 +1,20 @@
 
 import './App.css';
+import './components/style.css'
 import Navbar from './components/navbar';
 import Search from './components/search';
 import ColorCards from './components/colorCards';
 
 function App() {
   return (
-    <div>
+    <div className='backgroundGradient'>
     <Navbar></Navbar>
 
-    <div className="container">
+    <div className="container shadow px-5 bottom">
          
-        <Search></Search>
+        <Search ></Search>
 
-        <ColorCards></ColorCards>
+        <ColorCards ></ColorCards>
      
       </div>
     </div>

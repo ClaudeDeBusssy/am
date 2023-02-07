@@ -1,0 +1,8 @@
+.backgroundGradient {
+    background-image: linear-gradient(to right, #ffffff , #fffcff);
+    height: 100vh;
+}
+
+.bottom {
+    height: 90%;
+}
