@@ -1,6 +1,3 @@
-
-
-
 class Ebay_Kleinanzeigen_scraper:
     def __init__(sc,url_parameters):
         sc.url_parameters = url_parameters
