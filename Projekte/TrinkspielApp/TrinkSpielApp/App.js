@@ -1,22 +1,15 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View, Image, SafeAreaView } from 'react-native';
+import React from "react";
+import { SafeAreaView, View, StyleSheet } from "react-native";
+import WelcomeScreen from "./app/screens/WelcomeScreen";
+import SelectScreen from "./app/screens/SelectScreen";
+
+import colors from "./app/config/colors";
 
 export default function App() {
-  const handlePress = () => console.log('Text Pressed');
-
   return (
     <SafeAreaView style={styles.container}>
-      <Text onPress={handlePress}>Diese App wird super</Text>
-      <Text>Zweiter Text</Text>
-      <Image source={{
-        width: 200,
-        height: 200,
-        uri: "https://picsum.photos/200/200"
-      }}></Image>
-
-
-
-      <StatusBar style="auto" />
+      <WelcomeScreen />
+      {/* <SelectScreen></SelectScreen> */}
     </SafeAreaView>
   );
 }
@@ -24,8 +17,6 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#0ff',
-    justifyContent: 'center',
-    alignItems: 'center'
+    backgroundColor: colors.bgTest,
   },
 });
