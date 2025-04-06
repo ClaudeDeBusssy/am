@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"9f4c82d87daa4ec9","type":"file","file":"Projekte/BMW/BMW - Reparaturen.md","x":-540,"y":-640,"width":400,"height":540},
+		{"id":"877c89677637f855","type":"file","file":"Projekte/BMW/ASC DSC Steuergerät Reparieren.md","x":10,"y":-640,"width":590,"height":540},
+		{"id":"bcfadcc26d8dbc2c","type":"file","file":"Projekte/BMW/Einkaufsliste.md","x":-540,"y":-1540,"width":480,"height":800},
+		{"id":"0ea562ad8683f084","type":"file","file":"Projekte/BMW/Fehlercodes.md","x":10,"y":-1540,"width":910,"height":800},
+		{"id":"094ed25ac2cf0620","type":"file","file":"Lebensplan/Körper/Sport/Videos Anschauen.md","x":10,"y":-40,"width":590,"height":220},
+		{"id":"e19d08f7ee6748ad","type":"file","file":"Lebensplan/Körper/Sport/Schritte für Reparatur.md","x":720,"y":-640,"width":680,"height":600},
+		{"id":"f456d402f6f687a8","x":-440,"y":40,"width":340,"height":520,"type":"file","file":"Projekte/BMW/Heckklappe Reparieren.md"},
+		{"id":"6eaef819bdc30679","type":"file","file":"Projekte/BMW/Heckstoßstange Reparieren.md","x":-940,"y":40,"width":400,"height":520}
+	],
+	"edges":[
+		{"id":"7be9da91b126cacd","fromNode":"9f4c82d87daa4ec9","fromSide":"right","toNode":"877c89677637f855","toSide":"left"},
+		{"id":"df678a891e56b49c","fromNode":"9f4c82d87daa4ec9","fromSide":"bottom","toNode":"6eaef819bdc30679","toSide":"top"},
+		{"id":"0594b7a38a713507","fromNode":"0ea562ad8683f084","fromSide":"bottom","toNode":"877c89677637f855","toSide":"top"},
+		{"id":"280d9b4536eac69d","fromNode":"877c89677637f855","fromSide":"right","toNode":"e19d08f7ee6748ad","toSide":"left"},
+		{"id":"7a5bbbe7855e7b32","fromNode":"9f4c82d87daa4ec9","fromSide":"top","toNode":"bcfadcc26d8dbc2c","toSide":"bottom"},
+		{"id":"341fefe68b560454","fromNode":"877c89677637f855","fromSide":"bottom","toNode":"094ed25ac2cf0620","toSide":"top"},
+		{"id":"fc519177e7a157bb","fromNode":"9f4c82d87daa4ec9","fromSide":"bottom","toNode":"f456d402f6f687a8","toSide":"top"}
+	]
+}

@@ -1,0 +1,2 @@
+- [x] https://www.youtube.com/watch?v=tfP-8821Jwo
+- [x] https://www.youtube.com/watch?v=CvyVCwCAx1Q&t=1104s

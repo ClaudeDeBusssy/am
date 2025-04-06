@@ -1,0 +1,11 @@
+- [x] Träger ausbauen
+- [x] neuen Träger einbauen
+- [x] Auspuff Stellen entfernen
+- [x] Dämpfer von Rost befreien
+- [x] Dämpfer lackieren
+- [ ] Seitenhänger Tauschen
+- [ ] Heckstoßstange anbauen
+- [ ] Heckstoßstange gerichtet
+#### Radhausschale
+- [x] richtige Halter für Radhausschale
+- [ ] Radhausschale rechts reparieren

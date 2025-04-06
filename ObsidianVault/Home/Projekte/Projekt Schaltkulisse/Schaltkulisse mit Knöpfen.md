@@ -1,0 +1,3 @@
+- Daten für größe 
+- Modell erstellen
+- Modell drucken

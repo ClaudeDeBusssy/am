@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"714b1451c70e8c71","type":"group","x":-440,"y":-640,"width":480,"height":1240,"label":"Dienstag"},
+		{"id":"ba599f0d06b9636b","type":"group","x":-1000,"y":-640,"width":480,"height":1240,"label":"Montag"},
+		{"id":"885d67175c2dc191","type":"group","x":120,"y":-640,"width":480,"height":1240,"label":"Mittwoch"},
+		{"id":"60d1606e18b4da95","type":"group","x":680,"y":-640,"width":480,"height":1240,"label":"Donnerstag"},
+		{"id":"bd3b2ad35bb079bf","type":"group","x":1240,"y":-640,"width":480,"height":1240,"label":"Freitag"},
+		{"id":"5603f4869fecd863","type":"file","file":"Lebensplan/Körper/Sport/Pull - Alt.md","x":160,"y":-585,"width":400,"height":400},
+		{"id":"1f9c525fd26bbab0","type":"file","file":"Lebensplan/Körper/Sport/Push - Alt.md","x":-960,"y":-585,"width":400,"height":400},
+		{"id":"c215228c3a474dcc","type":"file","file":"Lebensplan/Körper/Sport/Neue Übungen.md","x":-1520,"y":-625,"width":440,"height":880},
+		{"id":"31761b6fed52be74","type":"file","file":"Lebensplan/Körper/Sport/Beine - Alt.md","x":1280,"y":-585,"width":400,"height":525},
+		{"id":"5bee59700c958311","type":"file","file":"Lebensplan/Körper/Sport/Pull - Neu.md","x":720,"y":0,"width":400,"height":580},
+		{"id":"39e94d868f0c5e71","type":"file","file":"Lebensplan/Körper/Sport/Andere.md","x":160,"y":0,"width":400,"height":400},
+		{"id":"949002613f63b1fd","type":"file","file":"Lebensplan/Körper/Sport/Push - Neu.md","x":-400,"y":-5,"width":400,"height":520},
+		{"id":"dc8c3b2e043f66d0","type":"file","file":"Lebensplan/Körper/Sport/Andere.md","x":-960,"y":-5,"width":400,"height":400},
+		{"id":"bc2039c033f02f1a","type":"text","text":"# Frei\n","x":1280,"y":0,"width":400,"height":80}
+	],
+	"edges":[]
+}

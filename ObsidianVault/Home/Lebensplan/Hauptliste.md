@@ -1,0 +1,24 @@
+
+- Ziele dieses Jahr
+	- 15 Kilo abnehmen auf 90
+	- BMW fährt und hat TÜV
+	- Nebengeldquelle
+	- Besserer Schlaf
+- Tagesplan mit Bewertung
+- Routinen
+	- Sport
+	- Diät
+	- Looksmaxxing
+	- Lernen
+	- 
+- Markers
+	- Gewicht
+	- Schlafqualität
+	- Diät Einhaltung
+	- Sport
+	- Lernen
+	- 
+- Projekte
+	- BMW
+	- Trinkspielapp
+	- Körper

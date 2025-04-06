@@ -1,0 +1,6 @@
+- [x] INPA Nochmal Verschuchen Feheler auszulesen (Falsche Schalterstellung)
+- [x] Lenkwinkelsensor neu kalibirieren
+- [ ] DSC-Gerät einbauen
+- [ ] DSC-Gerät anlernen
+- [ ] Bremse entlüften
+- [ ] 

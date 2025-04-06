@@ -1,0 +1,3 @@
+- [ ] Heckklappe Lackiert
+- [ ] Alte Heckklappe ausbauen
+- [ ] neue Heckklappe zusammen bauen
