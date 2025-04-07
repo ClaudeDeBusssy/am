@@ -1,0 +1,12 @@
+- **Positiv**
+	- Schlaff
+	- Diät
+	- Sport
+	- Lernen
+	- Looksmaxxing
+	- Suplements
+	- 
+
+- Negativ
+	- Youtube + Shorcontent
+	- Wixxen

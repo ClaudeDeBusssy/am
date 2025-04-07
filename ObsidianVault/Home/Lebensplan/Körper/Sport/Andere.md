@@ -1,8 +1,9 @@
+- Klimmzüge
+- [Pilates Kurs](https://www.youtube.com/watch?v=iWjRCMB_mzY&list=WL&ab_channel=BohoBeautifulYoga)
 - Joggen gehen
 - Dehnen
 
-evtl:
-- Klimzüge
+**Alternativen**
 - Liegestützen
 - Neck extensions
 - Neck curls
