@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "da99e42c7b2c6b63",
+        "id": "c2b49d7d9a48d6e8",
         "type": "tabs",
         "children": [
           {
-            "id": "27a2af1e452f99a2",
+            "id": "d0d3d410e9399abc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/Lebensplan/Hauptliste.md",
+                "file": "Home/Lebensplan/Tagesmarker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hauptliste"
+              "title": "Tagesmarker"
             }
           }
         ]
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,14 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27a2af1e452f99a2",
+  "active": "d0d3d410e9399abc",
   "lastOpenFiles": [
+    "Home/Lebensplan/Hauptliste.md",
     "Home/Lebensplan/Körper/Looksmaxxing/Looksmaxxing.md",
     "Home/Lebensplan/Körper/Sport/Andere.md",
     "Home/Projekte/BMW/Videos Anschauen.md",
     "Home/Projekte/BMW/Schritte für Reparatur.md",
     "Home/Lebensplan/Körper/Sport/Neue Übungen.md",
-    "Home/Lebensplan/Hauptliste.md",
     "Home/Lebensplan/Tagesmarker.md",
     "Home/Lebensplan/Tagesplan.md",
     "Home/Lebensplan/Körper/Schlaff.md",
