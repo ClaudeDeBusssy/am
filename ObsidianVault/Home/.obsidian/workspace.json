@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lebensplan/Hauptliste.md",
+                "file": "Lebensplan/Körper/Looksmaxxing/Looksmaxxing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hauptliste"
+              "title": "Looksmaxxing"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BMW/BMW.canvas",
+                "file": "Lebensplan/Tagesmarker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für BMW"
+              "title": "Rückverweise für Tagesmarker"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BMW/BMW.canvas",
+                "file": "Lebensplan/Tagesmarker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von BMW öffnen"
+              "title": "Ausgehende Links von Tagesmarker öffnen"
             }
           },
           {
@@ -140,21 +140,35 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BMW/BMW.canvas"
+                "file": "Lebensplan/Tagesmarker.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von BMW"
+              "title": "Gliederung von Tagesmarker"
+            }
+          },
+          {
+            "id": "934ee5d8087b5079",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graphen-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
@@ -163,12 +177,22 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "da2849d9a80b9290",
+  "active": "d58f6bce409d7a9e",
   "lastOpenFiles": [
+    "Lebensplan/Tagesmarker.md",
+    "Lebensplan/Hauptliste.md",
+    "Projekte/BMW/Videos Anschauen.md",
+    "Projekte/BMW/Schritte für Reparatur.md",
+    "Lebensplan/Tagesplan.md",
+    "Lebensplan/Körper/Schlaff.md",
+    "Lebensplan/Körper/Looksmaxxing/Looksmaxxing.md",
+    "Lebensplan/Körper/Looksmaxxing",
+    "Lebensplan/Körper/Gewicht.md",
+    "Lebensplan/Körper/Diät/Diät.md",
+    "Lebensplan/Körper/Diät",
     "Lebensplan/Geld",
     "Lebensplan/Körper",
     "Projekte/Projekt Ideen.md",
-    "Lebensplan/Hauptliste.md",
     "Projekte/BMW/BMW.canvas",
     "Projekte/BMW/Heckklappe Reparieren.md",
     "Projekte/Projekt Schaltkulisse/Schaltkulisse mit Knöpfen.md",
@@ -194,13 +218,6 @@
     "Projekte/BMW/BMW - Reparaturen.md",
     "Lebensplan",
     "Unbenannt.canvas",
-    "Projekte/BMW/Fehlercodes.md",
     "Lebensplan/Körper/Sport",
     "test.canvas",
-    "Projekte/BMW/Einkaufsliste.md",
-    "Projekte/BMW/ASC DSC Steuergerät Reparieren.md",
-    "Projekte/BMW",
-    "Self Improvment.md",
-    "Notes.md"
-  ]
-}
+ 
